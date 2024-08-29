@@ -2,15 +2,15 @@
 
 Hai, I am Avinash Golla, currently a graduate student at Clemson University, South Carolina, USA.
 
-Previously worked as a Java Developer in India, South Africa and Singapore. I had 5+ years of experience in Java Development.
+Previously worked as a Java Developer in India, South Africa and Singapore. I have 5+ years of experience as Software Engineer.
 
-💻CURRENTLY I AM LEARNING
---------------------------
-My main focus of study is on Artificial Intelligence. So I planned to get specialization in Artificial Intelligence in my Graduation.
+💻I AM 
+--------
+I am current Graduate Student in Computer Science and Informatics, with a focus on Data Science and Informatics.
 
 🧐🔜WHAT I'M FOCUSING ON
 -------------------------
-Currently improving my skillset towards tools, technologies & languages which are related to Artificial Intelligence.
+Improving my skillset towards tools, technologies & languages which are related to Machine Learning and Data Science.
 
 🎯GOAL'S FOR 2024
 ------------------
@@ -22,7 +22,7 @@ J2SE, J2EE, Spring IO, Spring MVC, Spring ORM, Hibernate, SpringBoot, Rest API, 
 
 ✔️PREVIOUS EXPERIENCE
 ----------------------
-Having 5+ years of experience in java developer and worked in domains like Banking, Gaming and Retailer.
+Having 5+ years of experience in Software Engineering and worked in domains like Banking, Gaming and Retailer.
 
 🥰EXTRA CURRICULAR ACTIVITIES
 ------------------------------
